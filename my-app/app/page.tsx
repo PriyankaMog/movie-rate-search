@@ -76,7 +76,7 @@ export default function Home() {
 
   return (
     <div className="container">
-      <h1>Movie Explorer</h1>
+      <h1>Movie Rate Search</h1>
 
       {/* NAV */}
       <div style={{ marginBottom: 20 }}>

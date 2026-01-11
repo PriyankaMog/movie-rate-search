@@ -4,7 +4,7 @@ import { Inter } from 'next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Movie App',
+  title: 'Movie Rate Search',
   description: 'Search movies with OMDb API',
 }
 
